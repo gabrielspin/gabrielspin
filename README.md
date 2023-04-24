@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @gabrielspin and i'm studying Microsoft Dev resources like .NET, ASP and Azure :)  I'm learning Zabbix too.
-I belive that the way of my live will cross the software development like a pro, that is why i'm preparing me. 
-
+- Hello guys, my name is Gabriel Spindola 🤝 I'm a .NET developer 
+ I'm excited to impact society positively through software solutions that bring evolution. 
 <!---
 gabrielspin/gabrielspin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
